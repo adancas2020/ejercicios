@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583105196 source:c:\users\pegamento\desktop\ejercicios3listas\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1583097205 c:\users\pegamento\desktop\ejercicios3listas\fecha.h
+
+1583097205 source:c:\users\pegamento\desktop\ejercicios3listas\main.cpp
+	<iostream>
+	"Fecha.h"
+
