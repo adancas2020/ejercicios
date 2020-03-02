@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583112086 source:c:\users\pegamento\desktop\ejercicio4lista\main.cpp
+	<iostream>
+	"Hora.h"
+
+1583108246 c:\users\pegamento\desktop\ejercicio4lista\hora.h
+
+1583112039 source:c:\users\pegamento\desktop\ejercicio4lista\hora.cpp
+	"Hora.h"
+	<iostream>
+
